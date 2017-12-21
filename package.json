@@ -1,0 +1,30 @@
+{
+  "name": "chatbotting-for-dummies",
+  "version": "1.0.0",
+  "description": "chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coldbloodedvlad/chatbotting-for-dummies.git"
+  },
+  "keywords": [
+    "bot",
+    "chat",
+    "youtube",
+    "stream",
+    "someone",
+    "cooperation"
+  ],
+  "author": "somevlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coldbloodedvlad/chatbotting-for-dummies/issues"
+  },
+  "homepage": "https://github.com/coldbloodedvlad/chatbotting-for-dummies#readme",
+  "dependencies": {
+    "googleapis": "^23.0.0"
+  }
+}
